@@ -1,0 +1,1 @@
+The Programm will Optimize a set of Weights, so that they Balance out an Object.
